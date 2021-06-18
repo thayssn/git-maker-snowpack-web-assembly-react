@@ -1,0 +1,15 @@
+/* Add CSS styles here! */
+body {
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 240px;
+  text-align: center;
+}
+
+body * {
+  margin-top: 20px;
+}
+
+video, img{
+  width: 100%;
+}
