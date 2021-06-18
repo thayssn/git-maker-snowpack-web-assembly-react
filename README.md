@@ -1,4 +1,6 @@
-# New Project
+# Gif Maker
+Transform videos into gifs using webassembly ffmpeg and react
+https://60cc1325ad4f7b0008f4a9b0--peaceful-archimedes-136711.netlify.app/
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
