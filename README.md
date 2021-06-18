@@ -1,6 +1,7 @@
 # Gif Maker
 Transform videos into gifs using webassembly ffmpeg and react
-https://60cc1325ad4f7b0008f4a9b0--peaceful-archimedes-136711.netlify.app/
+
+https://gif-maker-wasm-react.netlify.app/
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
